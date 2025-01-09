@@ -1,19 +1,8 @@
-# Todo-List-app
-# A simple To-Do List app built using ReactJS to help you manage your tasks. You can add, update, delete, and mark tasks as complete in this interactive app.
+# React + Vite
 
-**Features**
-Add new tasks to the list.
-Mark tasks as complete.
-Update the same task.
-Delete tasks from the list.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-**Technologies Used**
-ReactJS
-TailwindCSS
-
-**Usage**
-Add a task: Enter the task name in the input field and click on the "Add" button to add it to the list.
-Complete a task: Click on the checkbox next to a task to mark it as complete. The task will be visually crossed out.
-Update a Task: Click on the chechbox next to a task to update. The task will be updated.
-Delete a task: Click on the "Delete" button next to a task to remove it from the list.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
